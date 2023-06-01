@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/ai_teacher?serverTimezone=GMT%2b8
+    username: root
+    password: Liyuhan123
+
+server:
+  port: 9090
